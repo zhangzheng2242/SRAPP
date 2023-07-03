@@ -28,9 +28,7 @@
 
 ##### 1、客户端登录、注册界面
 <img src="./images/login.png"  width=500 height=397> 
-
 <img src="./images/signUp.png" width=498 height=396>
-
 
 ##### 2、图像超分界面
 <img src="./images/APP.png"  width=797 height=434>
@@ -42,7 +40,7 @@
 ###### 3.2 image two
 <img src="./images/test2.png"  width=516 height=572> <img src="./images/test2_x4.png"  width=516 height=572>
 ###### 3.3 image three
-<img src="./images/test3.png"  width=500 height=500> <img src="./images/test3_x4.png"  width=500 height=500>
+<img src="./images/test3.png"  width=250 height=250> <img src="./images/test3_x4.png"  width=250 height=250>
 ###### 3.4 image four
 <img src="./images/test4.png"  width=500 height=500> <img src="./images/test4_x4.png"  width=500 height=500>
 ###### 3.5 image five
