@@ -41,7 +41,7 @@ Input_path为你上次选择图片的路径
 <img src="./images/APP.png"  width=390 height=200>
 
 ##### 3、图像超分效果（左边为输入图片，右边为超分输出图片）
-温馨提示：放大看效果更加明显
+温馨提示：放大看超分辨效果更加明显
 ###### 3.1 image one
 <img src="./images/test1.jpg"  width=224 height=208> <img src="./images/test1_x4.jpg"  width=224 height=208>
 ###### 3.2 image two
@@ -58,6 +58,8 @@ Input_path为你上次选择图片的路径
 <img src="./images/nice.jpg"  width=208 height=208> <img src="./images/nice_x4.jpg"  width=208 height=208>
 
 <img src="./images/star.jpg"  width=300 height=300> <img src="./images/star_x4.jpg"  width=300 height=300>
+
+超分图片略有失真请见谅
 
 ### 五、联系作者
 
