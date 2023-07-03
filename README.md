@@ -27,7 +27,7 @@
 ### 四、效果展示
 
 ##### 1、客户端登录、注册界面
-
+<img src="./images/login.png"  height=170 width=170> | <img src="./images/signup.png" width=170 height=170>
 
 
 ##### 2、图像超分界面
