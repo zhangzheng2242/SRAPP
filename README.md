@@ -53,6 +53,12 @@ Input_path为你上次选择图片的路径
 ###### 3.5 image five
 <img src="./images/test5.png"  width=250 height=250> <img src="./images/test5_x4.png"  width=250 height=250>
 
+超分效果很棒
+
+<img src="./images/nice.jpg"  width=208 height=208> <img src="./images/nice_x4.jpg"  width=208 height=208>
+
+<img src="./images/star.jpg"  width=300 height=300> <img src="./images/star_x4.jpg"  width=300 height=300>
+
 ### 五、联系作者
 
 可直接github交流
