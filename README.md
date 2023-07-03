@@ -38,15 +38,15 @@
 
 ##### 3、图像超分效果（左边为输入图片，右边为超分输出图片）
 ###### 3.1 image one
-<img src="./images/test1.jpg"  width=224 height=208>     <img src="./images/test1_x4.jpg"  width=224 height=208>
+<img src="./images/test1.jpg"  width=224 height=208> <img src="./images/test1_x4.jpg"  width=224 height=208>
 ###### 3.2 image two
-<img src="./images/test2.png"  width=516 height=572>     <img src="./images/test2_x4.png"  width=516 height=572>
+<img src="./images/test2.png"  width=516 height=572> <img src="./images/test2_x4.png"  width=516 height=572>
 ###### 3.3 image three
-<img src="./images/test2.png"  width=500 height=500>     <img src="./images/test2_x4.png"  width=500 height=500>
+<img src="./images/test3.png"  width=500 height=500> <img src="./images/test3_x4.png"  width=500 height=500>
 ###### 3.4 image four
-<img src="./images/test2.png"  width=500 height=500>     <img src="./images/test2_x4.png"  width=500 height=500>
+<img src="./images/test4.png"  width=500 height=500> <img src="./images/test4_x4.png"  width=500 height=500>
 ###### 3.5 image five
-<img src="./images/test2.png"  width=500 height=500>     <img src="./images/test2_x4.png"  width=500 height=500>
+<img src="./images/test5.png"  width=500 height=500> <img src="./images/test5_x4.png"  width=500 height=500>
 
 ### 五、联系作者
 
