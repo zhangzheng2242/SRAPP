@@ -27,14 +27,13 @@
 ### 四、效果展示
 
 ##### 1、客户端登录、注册界面
-<img src="./images/login.png"  width=250 height=200> 
-<img src="./images/signUp.png" width=250 height=200>
+<img src="./images/login.png"  width=250 height=200> <img src="./images/signUp.png" width=250 height=200>
 
 ##### 2、图像超分界面
-<img src="./images/APP.png"  width=797 height=434>
-
+<img src="./images/APP.png"  width=390 height=200>
 
 ##### 3、图像超分效果（左边为输入图片，右边为超分输出图片）
+温馨提示：放大看效果更加明显
 ###### 3.1 image one
 <img src="./images/test1.jpg"  width=224 height=208> <img src="./images/test1_x4.jpg"  width=224 height=208>
 ###### 3.2 image two
